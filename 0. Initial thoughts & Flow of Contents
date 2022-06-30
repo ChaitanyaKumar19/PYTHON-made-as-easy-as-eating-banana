@@ -1,0 +1,40 @@
+Python is my 3rd Programming Language which I've learnt, it was introduced to me through academics and 
+I have done couple of projects on it in the context of Machine Learning.
+
+Later the focus shifted to Java as Placement Season approached to prepare for OOPs and DSA, so I ignored python.
+
+Now its time for me to unlearn , relearn python.
+
+Since, I have understanding of computation process, I think this time I've upper hand in learning python.
+
+
+The naive definition of a computer program can be " Take input & store - Process/work on data - show output "
+
+So breaking down the process, we will get our content to go along. As I try to go along, I will try to update the contents in more detailed way.
+
+1. Taking input & store
+
+   points of importance
+   
+   - input methods
+   - all data types to store 
+   - support from python to work with those data types (inbuild methods)
+ 
+ 2. Process/work on data
+ 
+    points of importance
+    
+    - loops
+    - imp keywords
+    - user defined methods
+    - in built modules
+    - OOPs in python
+    
+3. show output
+   
+    points of importance
+    
+    - various ways of outputing data
+    - transferring data to a file
+
+
